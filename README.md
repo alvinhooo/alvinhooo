@@ -1,16 +1,16 @@
-## Hi there 👋
+# Alvaro Miranda
 
-<!--
-**alvinhooo/alvinhooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Back-End e Analista de Dados
 
-Here are some ideas to get you started:
+Meu nome é Álvaro Freitas Miranda, tenho 18 anos e estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
+Sou apaixonado por tecnologia e programação, e busco sempre evoluir criando soluções práticas e inovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤖 Linguagens e Tecnologias
+- SQL
+- Java
+- Python
+- React
+
+
