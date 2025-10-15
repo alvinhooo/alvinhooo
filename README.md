@@ -8,10 +8,12 @@ Sou apaixonado por tecnologia e programação, e busco sempre evoluir criando so
 ---
 
 ## 🤖 Linguagens e Tecnologias
-- SQL
-- Java
-- Python
-- React
+ <div style="flex-basis: 48%;">
+    <h3>Linguagens de Programação</h3>
+    <img align="center" alt="Java" height="35" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+  </div>
 
 
 
