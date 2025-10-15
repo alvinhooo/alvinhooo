@@ -15,8 +15,7 @@ Sou apaixonado por tecnologia e programação, e busco sempre evoluir criando so
     <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img align="center" alt="CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript logo" width="64" />
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/TypeScript-Website/f407e1ae19e5e990d9901ac8064a32a8cc60edf0/packages/typescriptlang-org/static/branding/ts-logo-512.svg" alt="TypeScript logo" width="64" />
-    <img align="center" alt="CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sql_data_base_with_logo.svg" alt="SQL logo" width="64" />
- </div>
+    
 
 
 
