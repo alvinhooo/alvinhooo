@@ -36,5 +36,4 @@ Sou apaixonado por tecnologia e programação, e busco sempre evoluir criando so
 <div/>
 
 ## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinhooo&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinhooo&show_icons=true&theme=tokyonight)
